@@ -1,5 +1,11 @@
 # Welcome to your Expo app 👋
 
+<h1> 리엑트 네이티브 연습 : 피트니스 앱</h1>
+
+#엑스포 빌드 연습.
+
+#리엑트 네이티브 연습.
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
